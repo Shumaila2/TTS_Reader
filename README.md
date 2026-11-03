@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3-b82e43?logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Windows-.exe-b82e43?logo=windows&logoColor=white)
-![Status](https://img.shields.io/badge/Status-v1.0%20working-2f7a16)
+![Status](https://img.shields.io/badge/Status-v1.0-2f7a16)
 
 
 
