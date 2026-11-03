@@ -22,7 +22,7 @@ It started as a desktop script that read one sentence at a time, and grew into a
 
 ## 🎬 Demo
 
-<!-- Edit this file on GitHub and drag your demo video (mp4, under 10 MB) onto this line. GitHub uploads it and pastes the link for you. -->
+https://github.com/user-attachments/assets/816a7ed3-ae2a-47af-90ca-f45f54034346
 
 ---
 
@@ -132,7 +132,7 @@ The finished app is `dist\tts_reader.exe`. If something goes wrong, build once w
 
 ## 📥 Download
 
-Just want the app? Open the **[latest release](https://github.com/Shumaila2/REPO_NAME/releases/latest)**, download `tts_reader.exe`, and run it. No Python needed. Your browser opens by itself with the reader.
+Just want the app? Open the **[latest release](https://github.com/Shumaila2/TTS_Reader/releases/latest)**, download `tts_reader.exe`, and run it. No Python needed. Your browser opens by itself with the reader.
 
 > The first launch can take a few seconds while the app unpacks itself. Windows may also show "Windows protected your PC" or a firewall prompt, because the app is unsigned and opens a local port. Click *More info*, then *Run anyway*, and allow access if asked.
 
