@@ -8,6 +8,8 @@
 ![Platform](https://img.shields.io/badge/Windows-.exe-b82e43?logo=windows&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-v1.0%20working-2f7a16)
 
+
+
 </div>
 
 A small app that reads your text out loud while you do something else.
@@ -127,6 +129,14 @@ The finished app is `dist\tts_reader.exe`. If something goes wrong, build once w
 > Windows may show a firewall prompt or a "Windows protected your PC" message the first time, because the app opens a local port and is unsigned. That is normal.
 
 </details>
+
+## 📥 Download
+
+Just want the app? Open the **[latest release](https://github.com/Shumaila2/REPO_NAME/releases/latest)**, download `tts_reader.exe`, and run it. No Python needed. Your browser opens by itself with the reader.
+
+> The first launch can take a few seconds while the app unpacks itself. Windows may also show "Windows protected your PC" or a firewall prompt, because the app is unsigned and opens a local port. Click *More info*, then *Run anyway*, and allow access if asked.
+
+> You need an internet connection, because the voices come from an online service.
 
 ---
 
